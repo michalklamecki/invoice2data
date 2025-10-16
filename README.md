@@ -184,7 +184,7 @@ It can be installed on most distributions by:
 ## Development
 
 If you are interested in improving this project, have a look at our
-[developer guide](../docs/contributing.md) to get you started quickly.
+[developer guide](./docs/contributing.md) to get you started quickly.
 
 ## Roadmap and open tasks
 
